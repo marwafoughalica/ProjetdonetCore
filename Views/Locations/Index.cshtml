@@ -1,0 +1,53 @@
+﻿@model IEnumerable<Mini_ProjetDonetCore.Models.Location>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.IdVoi)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdCl)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.dateLoc)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.dateRetour)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdVoi)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdCl)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.dateLoc)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.dateRetour)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.IdLoc">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.IdLoc">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.IdLoc">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
