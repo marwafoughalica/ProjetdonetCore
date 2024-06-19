@@ -84,15 +84,15 @@ namespace Mini_ProjetDonetCore.Controllers
         public IActionResult Delete(int? id)
         {
             if (id == null) NotFound();
-            var cat = _context.voiture.Find(id);
+            var cat = _context.client.Find(id);
             return View(cat);
         }
         [HttpPost]
-        public IActionResult Delete2(int? id)
+        public IActionResult Delete2(int? IdCl)
         {
-            if (id == null) NotFound();
-            var cat = _context.voiture.Find(id);
-            _context.voiture.Remove(cat);
+            if (IdCl == null) NotFound();
+            var cat = _context.client.Find(IdCl);
+            _context.client.Remove(cat);
             _context.SaveChanges();
             return RedirectToAction("Index");
         }

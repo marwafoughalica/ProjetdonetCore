@@ -250,3 +250,4 @@ C:\Users\Marwa-pc\source\repos\Mini-ProjetDonetCore\bin\Debug\net8.0\runtimes\wi
 C:\Users\Marwa-pc\source\repos\Mini-ProjetDonetCore\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\Marwa-pc\source\repos\Mini-ProjetDonetCore\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Marwa-pc\source\repos\Mini-ProjetDonetCore\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\Marwa-pc\source\repos\Mini-ProjetDonetCore\obj\Debug\net8.0\Mini-ProjetDonetCore.sourcelink.json

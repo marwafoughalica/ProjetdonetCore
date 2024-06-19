@@ -28,14 +28,24 @@
         </tr>
     </thead>
     <tbody>
+
 @foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.IdVoi)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.IdCl)
-            </td>
+
+            <tr>
+                <td>
+                    @if (item.Voiture != null)
+                    {
+                        @Html.DisplayFor(modelItem => item.Voiture.First().matricule)
+
+                    }
+                </td>
+                <td>
+                    @if (item.client != null)
+                    {
+                        @Html.DisplayFor(modelItem => item.client.First().name)
+
+                    }
+                </td>
             <td>
                 @Html.DisplayFor(modelItem => item.dateLoc)
             </td>

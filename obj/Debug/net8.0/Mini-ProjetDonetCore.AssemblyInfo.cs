@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mini-ProjetDonetCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4cd31c90bc9728f38f623c9a3f06aefdefde826")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mini-ProjetDonetCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mini-ProjetDonetCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

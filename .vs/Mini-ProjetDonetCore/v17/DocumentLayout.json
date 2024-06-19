@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marwa-pc\\source\\repos\\Mini-ProjetDonetCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06BFA4AA-E2C4-418D-874D-698218556F0D}|Mini-ProjetDonetCore.csproj|c:\\users\\marwa-pc\\source\\repos\\mini-projetdonetcore\\views\\locations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06BFA4AA-E2C4-418D-874D-698218556F0D}|Mini-ProjetDonetCore.csproj|solutionrelative:views\\locations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06BFA4AA-E2C4-418D-874D-698218556F0D}|Mini-ProjetDonetCore.csproj|c:\\users\\marwa-pc\\source\\repos\\mini-projetdonetcore\\controllers\\voiturescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06BFA4AA-E2C4-418D-874D-698218556F0D}|Mini-ProjetDonetCore.csproj|solutionrelative:controllers\\voiturescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06BFA4AA-E2C4-418D-874D-698218556F0D}|Mini-ProjetDonetCore.csproj|c:\\users\\marwa-pc\\source\\repos\\mini-projetdonetcore\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06BFA4AA-E2C4-418D-874D-698218556F0D}|Mini-ProjetDonetCore.csproj|solutionrelative:controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06BFA4AA-E2C4-418D-874D-698218556F0D}|Mini-ProjetDonetCore.csproj|c:\\users\\marwa-pc\\source\\repos\\mini-projetdonetcore\\views\\voitures\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06BFA4AA-E2C4-418D-874D-698218556F0D}|Mini-ProjetDonetCore.csproj|solutionrelative:views\\voitures\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06BFA4AA-E2C4-418D-874D-698218556F0D}|Mini-ProjetDonetCore.csproj|c:\\users\\marwa-pc\\source\\repos\\mini-projetdonetcore\\views\\clients\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06BFA4AA-E2C4-418D-874D-698218556F0D}|Mini-ProjetDonetCore.csproj|solutionrelative:views\\clients\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06BFA4AA-E2C4-418D-874D-698218556F0D}|Mini-ProjetDonetCore.csproj|c:\\users\\marwa-pc\\source\\repos\\mini-projetdonetcore\\views\\locations\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06BFA4AA-E2C4-418D-874D-698218556F0D}|Mini-ProjetDonetCore.csproj|solutionrelative:views\\locations\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06BFA4AA-E2C4-418D-874D-698218556F0D}|Mini-ProjetDonetCore.csproj|c:\\users\\marwa-pc\\source\\repos\\mini-projetdonetcore\\views\\voitures\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06BFA4AA-E2C4-418D-874D-698218556F0D}|Mini-ProjetDonetCore.csproj|solutionrelative:views\\voitures\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06BFA4AA-E2C4-418D-874D-698218556F0D}|Mini-ProjetDonetCore.csproj|c:\\users\\marwa-pc\\source\\repos\\mini-projetdonetcore\\views\\voitures\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06BFA4AA-E2C4-418D-874D-698218556F0D}|Mini-ProjetDonetCore.csproj|solutionrelative:views\\voitures\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06BFA4AA-E2C4-418D-874D-698218556F0D}|Mini-ProjetDonetCore.csproj|c:\\users\\marwa-pc\\source\\repos\\mini-projetdonetcore\\controllers\\locationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06BFA4AA-E2C4-418D-874D-698218556F0D}|Mini-ProjetDonetCore.csproj|solutionrelative:controllers\\locationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06BFA4AA-E2C4-418D-874D-698218556F0D}|Mini-ProjetDonetCore.csproj|c:\\users\\marwa-pc\\source\\repos\\mini-projetdonetcore\\views\\locations\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06BFA4AA-E2C4-418D-874D-698218556F0D}|Mini-ProjetDonetCore.csproj|solutionrelative:views\\locations\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06BFA4AA-E2C4-418D-874D-698218556F0D}|Mini-ProjetDonetCore.csproj|c:\\users\\marwa-pc\\source\\repos\\mini-projetdonetcore\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06BFA4AA-E2C4-418D-874D-698218556F0D}|Mini-ProjetDonetCore.csproj|solutionrelative:models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06BFA4AA-E2C4-418D-874D-698218556F0D}|Mini-ProjetDonetCore.csproj|c:\\users\\marwa-pc\\source\\repos\\mini-projetdonetcore\\views\\locations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06BFA4AA-E2C4-418D-874D-698218556F0D}|Mini-ProjetDonetCore.csproj|solutionrelative:views\\locations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06BFA4AA-E2C4-418D-874D-698218556F0D}|Mini-ProjetDonetCore.csproj|c:\\users\\marwa-pc\\source\\repos\\mini-projetdonetcore\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06BFA4AA-E2C4-418D-874D-698218556F0D}|Mini-ProjetDonetCore.csproj|solutionrelative:models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06BFA4AA-E2C4-418D-874D-698218556F0D}|Mini-ProjetDonetCore.csproj|c:\\users\\marwa-pc\\source\\repos\\mini-projetdonetcore\\models\\voiture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06BFA4AA-E2C4-418D-874D-698218556F0D}|Mini-ProjetDonetCore.csproj|solutionrelative:models\\voiture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06BFA4AA-E2C4-418D-874D-698218556F0D}|Mini-ProjetDonetCore.csproj|c:\\users\\marwa-pc\\source\\repos\\mini-projetdonetcore\\mini-projetdonetcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{06BFA4AA-E2C4-418D-874D-698218556F0D}|Mini-ProjetDonetCore.csproj|solutionrelative:mini-projetdonetcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marwa-pc\\source\\repos\\Mini-ProjetDonetCore\\Views\\Voitures\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Voitures\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Marwa-pc\\source\\repos\\Mini-ProjetDonetCore\\Views\\Voitures\\Create.cshtml",
+              "RelativeToolTip": "Views\\Voitures\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T18:59:58.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VoituresController.cs",
+              "DocumentMoniker": "C:\\Users\\Marwa-pc\\source\\repos\\Mini-ProjetDonetCore\\Controllers\\VoituresController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VoituresController.cs",
+              "ToolTip": "C:\\Users\\Marwa-pc\\source\\repos\\Mini-ProjetDonetCore\\Controllers\\VoituresController.cs",
+              "RelativeToolTip": "Controllers\\VoituresController.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAA8wF4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T16:19:10.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientsController.cs",
+              "DocumentMoniker": "C:\\Users\\Marwa-pc\\source\\repos\\Mini-ProjetDonetCore\\Controllers\\ClientsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientsController.cs",
+              "ToolTip": "C:\\Users\\Marwa-pc\\source\\repos\\Mini-ProjetDonetCore\\Controllers\\ClientsController.cs",
+              "RelativeToolTip": "Controllers\\ClientsController.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAswE4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T18:29:19.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marwa-pc\\source\\repos\\Mini-ProjetDonetCore\\Views\\Locations\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Locations\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Marwa-pc\\source\\repos\\Mini-ProjetDonetCore\\Views\\Locations\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Locations\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T18:47:03.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marwa-pc\\source\\repos\\Mini-ProjetDonetCore\\Views\\Clients\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Clients\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Marwa-pc\\source\\repos\\Mini-ProjetDonetCore\\Views\\Clients\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Clients\\Delete.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T18:54:06.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marwa-pc\\source\\repos\\Mini-ProjetDonetCore\\Views\\Locations\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Locations\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Marwa-pc\\source\\repos\\Mini-ProjetDonetCore\\Views\\Locations\\Index.cshtml",
+              "RelativeToolTip": "Views\\Locations\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T16:12:26.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LocationsController.cs",
+              "DocumentMoniker": "C:\\Users\\Marwa-pc\\source\\repos\\Mini-ProjetDonetCore\\Controllers\\LocationsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LocationsController.cs",
+              "ToolTip": "C:\\Users\\Marwa-pc\\source\\repos\\Mini-ProjetDonetCore\\Controllers\\LocationsController.cs",
+              "RelativeToolTip": "Controllers\\LocationsController.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAmwFsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T16:09:09.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marwa-pc\\source\\repos\\Mini-ProjetDonetCore\\Views\\Locations\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Locations\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Marwa-pc\\source\\repos\\Mini-ProjetDonetCore\\Views\\Locations\\Create.cshtml",
+              "RelativeToolTip": "Views\\Locations\\Create.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T16:09:23.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marwa-pc\\source\\repos\\Mini-ProjetDonetCore\\Views\\Voitures\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Voitures\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Marwa-pc\\source\\repos\\Mini-ProjetDonetCore\\Views\\Voitures\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Voitures\\Delete.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T18:52:51.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Location.cs",
+              "DocumentMoniker": "C:\\Users\\Marwa-pc\\source\\repos\\Mini-ProjetDonetCore\\Models\\Location.cs",
+              "RelativeDocumentMoniker": "Models\\Location.cs",
+              "ToolTip": "C:\\Users\\Marwa-pc\\source\\repos\\Mini-ProjetDonetCore\\Models\\Location.cs",
+              "RelativeToolTip": "Models\\Location.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T18:27:10.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marwa-pc\\source\\repos\\Mini-ProjetDonetCore\\Views\\Voitures\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Voitures\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Marwa-pc\\source\\repos\\Mini-ProjetDonetCore\\Views\\Voitures\\Index.cshtml",
+              "RelativeToolTip": "Views\\Voitures\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T16:11:32.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marwa-pc\\source\\repos\\Mini-ProjetDonetCore\\Views\\Locations\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Locations\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Marwa-pc\\source\\repos\\Mini-ProjetDonetCore\\Views\\Locations\\Details.cshtml",
+              "RelativeToolTip": "Views\\Locations\\Details.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T18:46:53.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Marwa-pc\\source\\repos\\Mini-ProjetDonetCore\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "Models\\Client.cs",
+              "ToolTip": "C:\\Users\\Marwa-pc\\source\\repos\\Mini-ProjetDonetCore\\Models\\Client.cs",
+              "RelativeToolTip": "Models\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T18:39:23.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Voiture.cs",
+              "DocumentMoniker": "C:\\Users\\Marwa-pc\\source\\repos\\Mini-ProjetDonetCore\\Models\\Voiture.cs",
+              "RelativeDocumentMoniker": "Models\\Voiture.cs",
+              "ToolTip": "C:\\Users\\Marwa-pc\\source\\repos\\Mini-ProjetDonetCore\\Models\\Voiture.cs",
+              "RelativeToolTip": "Models\\Voiture.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T18:32:13.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Mini-ProjetDonetCore",
+              "DocumentMoniker": "C:\\Users\\Marwa-pc\\source\\repos\\Mini-ProjetDonetCore\\Mini-ProjetDonetCore.csproj",
+              "RelativeDocumentMoniker": "Mini-ProjetDonetCore.csproj",
+              "ToolTip": "C:\\Users\\Marwa-pc\\source\\repos\\Mini-ProjetDonetCore\\Mini-ProjetDonetCore.csproj",
+              "RelativeToolTip": "Mini-ProjetDonetCore.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-19T16:08:21.899Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -92,11 +92,11 @@ namespace Mini_ProjetDonetCore.Controllers
             return View(cat);
         }
         [HttpPost]
-        public IActionResult Delete2(int? id)
+        public IActionResult Delete2(int? IdVoi)
         {
-            if (id == null) NotFound();
-            var cat = _context.voiture.Find(id);
-            _context.voiture.Remove(cat);
+            if (IdVoi == null) NotFound();
+            var voiture = _context.voiture.Find(IdVoi);
+            _context.voiture.Remove(voiture);
             _context.SaveChanges();
             return RedirectToAction("Index");
         }

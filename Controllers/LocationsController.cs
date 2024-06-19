@@ -12,7 +12,7 @@ namespace Mini_ProjetDonetCore.Controllers
     public class LocationsController : Controller
     {
         private readonly ApplicationDbContext _context;
-
+       
         public LocationsController(ApplicationDbContext context)
         {
             _context = context;
@@ -48,6 +48,8 @@ namespace Mini_ProjetDonetCore.Controllers
         // GET: Locations/Create
         public IActionResult Create()
         {
+            ViewBag.clients = new SelectList(_context.client.ToList(), "IdCl", "name");
+            ViewBag.voitures = new SelectList(_context.voiture.ToList(), "IdVoi", "matricule");
             return View();
         }
         [HttpPost]
@@ -85,10 +87,10 @@ namespace Mini_ProjetDonetCore.Controllers
             return View(cat);
         }
         [HttpPost]
-        public IActionResult Delete2(int? id)
+        public IActionResult Delete2(int? IdLoc)
         {
-            if (id == null) NotFound();
-            var loc = _context.location.Find(id);
+            if (IdLoc == null) NotFound();
+            var loc = _context.location.Find(IdLoc);
             _context.location.Remove(loc);
             _context.SaveChanges();
             return RedirectToAction("Index");
